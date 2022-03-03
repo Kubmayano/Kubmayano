@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elliot
 - 👀 I’m interested in anything I might find myself doing at the time honestly
-- 🌱 I’m currently learning C# and gamedev
+- 🌱 I’m currently learning C# and gamedevelopment in Unity
 - 📫 If you wanna reach me then just dm me on discord or something Elliot#3287
 
 <!---

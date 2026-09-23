@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Elliot
-- 👀 I’m interested in anything I might find myself doing at the time honestly
-- 🌱 I’m currently learning C# and C++
-- 📫 If you wanna reach me then just dm me on discord or something "Kubmayano"
+Hi I'm Elliot, I'm a masters student currently specializing in robotics and control.
 
-<!---
-Kubmayano/Kubmayano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Majority of my passion projects are written in C/C++ because I enjoy low level control and the process of manually managing memory. I also enjoy Python projects and dealing with data collection / processing. 
+
+I'm currently doing work in ROS 2 and MATLAB through university so a lot of time and experience lately is going into perfecting MATLAB and Simulink.
+
